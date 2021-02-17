@@ -1,0 +1,12 @@
+Dear Rashed....,
+
+I have evaluated your resubmissions. Here is your feedback.
+
+With regard to Assignment 1:
+- All tests passed, so nothing wrong.
+- Pass. Grade: A.
+
+With regard to Assignment 2 and 3:
+- Some test failed.
+*****************
+- Pass. Grade: A1, A2, A3 => C
